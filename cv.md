@@ -6,7 +6,7 @@
 - GitHub: [Muhamadboburm] 
 
 ## Abour me
-** I am a student, who is curious about learning programming. Additionally I am kin on science, and self-development **
+I am a student, who is curious about learning programming. Additionally I am kin on science, and self-development 
 
 ## Skills
 - HTML
@@ -14,7 +14,7 @@
 - Javascript
 
 ## Experience 
-* no experience *
+* no experience 
 
 ## Education
 - University of World Economy and Diplomacy

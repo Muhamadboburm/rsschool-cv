@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Muhamadboburm.github.io/rsschool-cv/cv

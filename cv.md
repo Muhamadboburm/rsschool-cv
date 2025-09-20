@@ -14,7 +14,7 @@ I am a student, who is curious about learning programming. Additionally I am kin
 - Javascript
 
 ## Experience 
-* no experience 
+no experience 
 
 ## Education
 - University of World Economy and Diplomacy

@@ -3,7 +3,7 @@
 
 ## Contact information
 - Email: boburmambetbayev@gmail.com
-- GitHub: [Muhamadboburm] 
+- GitHub: [Muhamadboburm](https://github.com/Muhamadboburm)
 
 ## Abour me
 I am a student, who is curious about learning programming. Additionally I am kin on science, and self-development 
